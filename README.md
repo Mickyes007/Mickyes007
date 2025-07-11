@@ -9,6 +9,10 @@
 📚 Fuerte base en procesos industriales y pensamiento lógico  
 🧠 Curioso, autodidacta y siempre buscando mejorar  
 🤝 Me gusta compartir lo que aprendo y ayudar a otros
-
+## 🧰 Habilidades que estoy desarrollando
+- 🖥️ Programación básica en Java y HTML  
+- ⚙️ Control de versiones con Git y GitHub  
+- 📊 Manejo de Excel, Power BI y herramientas de análisis  
+- 🧠 Pensamiento lógico y enfoque en soluciones
 ## ✨ Frase favorita
 > "El éxito no es cuestión de suerte, sino de constancia." 💪
