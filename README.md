@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Miguel
-🎓 Estudiante de Ingeniería de Sistemas (60%)  
+# 👋 ¡Hola! Soy Miguel Parra Guarachi
+🎓 Estudiante de Ingeniería de Sistemas
 📍 Bolivia
 ## 🧠 Sobre mí
 💼 Apasionado por la tecnología y los sistemas complejos  
